@@ -1,0 +1,20 @@
+title: League Level0 Python
+description: League Level0 Python
+pages:
+  - index.md
+  - about.md
+  - intro.md
+resources:
+  - flag.png
+  - word-logo.png
+sidebar:
+  - path: /intro
+    title: Introduction
+lessons:
+  lesson1:
+    text: lesson1.md
+    resources:
+      - flag.png
+    assignments:
+    - python-modules/Levels/Level0/Module0/01_drawing/tina_the_turtle
+    - python-modules/Levels/Level0/Module0/01_drawing/shapes_and_colors
