@@ -16,5 +16,5 @@ lessons:
     resources:
       - flag.png
     assignments:
-    - python-modules/Levels/Level0/Module0/01_drawing/tina_the_turtle
-    - python-modules/Levels/Level0/Module0/01_drawing/shapes_and_colors
+     - lesson1/new_assignment
+
