@@ -5,7 +5,8 @@
 ## Lesson plan
 
 
-1. Explor OOB experience
+1. Explore OOB experience
+  * Instructore need to prepare all mb before hand. 
 2. Beating Heart Program, demo emulator, get uopload working
 3. Buttons to make happy/sad. 
   * Change to shape to make sad, button to make happy
