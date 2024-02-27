@@ -1,4 +1,4 @@
-base: /LevelX/
+base: /HourofMicrobit/
 description: League Level0 Python
 head:
 - - meta
@@ -30,9 +30,9 @@ themeConfig:
   - path: /intro
     title: Introduction
   - children:
-    - path: /lessons/introduction-to-tina-the-turtle/shapes-and-colors/
-      title: Shapes and Colors
+    - path: /lessons/get_started/setup/
+      title: Setup
     collapsable: false
-    path: /lessons/introduction-to-tina-the-turtle/
-    title: Introduction to Tina the Turtle
+    path: /lessons/get_started/
+    title: Getting Started
 title: League Level0 Python
