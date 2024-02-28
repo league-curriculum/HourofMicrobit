@@ -1,4 +1,7 @@
 base: /HourofMicrobit/
+description: Hour of Microbit
+title: Hour of Microbit
+
 head:
 - - meta
   - content: '#F37121'

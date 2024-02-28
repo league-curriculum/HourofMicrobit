@@ -4,8 +4,8 @@
 
 
 1. Explore OOB experience
-  * Instructore need to prepare all mb before hand. 
-2. Beating Heart Program, demo emulator, get uopload working
+  * Instructors need to prepare all mb before hand. 
+2. Beating Heart Program, demo emulator, get upload working
 3. Buttons to make happy/sad. 
   * Change to shape to make sad, button to make happy
 4. Image scroll

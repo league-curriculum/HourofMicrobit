@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage:  /assets/word-logo.png
-tagline: Introduction to Python
+tagline: Hour of Microbit
 actionText: Get Started!
 actionLink: /intro
 

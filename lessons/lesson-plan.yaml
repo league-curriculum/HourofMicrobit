@@ -1,5 +1,5 @@
-title: League Level0 Python
-description: League Level0 Python
+title: Hour of Microbit
+description: Hour of Microbit
 pages:
   - index.md
   - about.md
@@ -12,12 +12,20 @@ resources:
   - import_button.png
   - mb_editor.png
   - big_heart.png
+  - happy_sad.png
+  - dice.png
+  - sign_in.png
+  - input.png
+  - microbit.png
+  - timer.png
 sidebar:
   - path: /intro
     title: Introduction
 lessons:
   get_started:
-
     assignments:
      - get_started/setup.md
+  lesson1:
+    assignments:
+    - lesson1/first_projects.md
 

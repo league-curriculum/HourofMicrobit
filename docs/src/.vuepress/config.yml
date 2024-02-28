@@ -1,5 +1,5 @@
 base: /HourofMicrobit/
-description: League Level0 Python
+description: Hour of Microbit
 head:
 - - meta
   - content: '#F37121'
@@ -35,4 +35,10 @@ themeConfig:
     collapsable: false
     path: /lessons/get_started/
     title: Getting Started
-title: League Level0 Python
+  - children:
+    - path: /lessons/lesson1/first_projects/
+      title: First Projects
+    collapsable: false
+    path: /lessons/lesson1/
+    title: First Projects
+title: Hour of Microbit

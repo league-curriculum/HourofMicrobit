@@ -15,7 +15,10 @@ Next, just plug in the USB cable to your computer:
 
 Then, visit the Micro:bit MakeCode project website: [https://makecode.microbit.org](https://makecode.microbit.org)
 
-Click on the Import button, which looks like this: <img src="/HourofMicrobit/assets/import_button.png" height="25px" >
+First, click on the <img style="vertical-align:middle" src="/HourofMicrobit/assets/sign_in.png" height="25px" > button in the upper-right to create an account. 
+
+
+To Load your first program, click on the Import button, which looks like this: <img style="vertical-align:middle" src="/HourofMicrobit/assets/import_button.png" height="25px" >
 
 In the import window, click on the middle box, "Import URL...."
 
@@ -36,7 +39,7 @@ You should now see a flashing heart on your Micro:bit:
 
 <img src="/HourofMicrobit/assets/big_heart.png" width="100px" >
 
-Congratulations!
+Congratulations! You have created your first Micro:bit program
 
 ## To do
 
