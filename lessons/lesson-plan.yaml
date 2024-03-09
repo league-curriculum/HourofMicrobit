@@ -7,17 +7,7 @@ pages:
 resources:
   - flag.png
   - word-logo.png
-  - after_connection.png
-  - parts.png
-  - import_button.png
-  - mb_editor.png
-  - big_heart.png
-  - happy_sad.png
-  - dice.png
-  - sign_in.png
-  - input.png
-  - microbit.png
-  - timer.png
+
 sidebar:
   - path: /intro
     title: Introduction
