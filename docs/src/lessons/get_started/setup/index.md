@@ -1,10 +1,10 @@
 ---
-title: Setup
+title: Getting Started
 
 ---
 
 
-# Setup
+# Getting Started
 
 To setup your microbit, you will need these things:
 
@@ -47,6 +47,6 @@ You should now see a flashing heart on your Micro:bit:
 
 Congratulations! You have created your first Micro:bit program
 
-## To do
+# First Step
 
 Let's see if you can figure out how to change your flashing heart into a flashing smile and frown.

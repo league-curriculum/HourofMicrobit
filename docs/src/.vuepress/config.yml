@@ -31,14 +31,16 @@ themeConfig:
     title: Introduction
   - children:
     - path: /lessons/get_started/setup/
-      title: Setup
+      title: Getting Started
     collapsable: false
-    path: /lessons/get_started/
     title: Getting Started
   - children:
     - path: /lessons/lesson1/first_projects/
       title: First Projects
     collapsable: false
-    path: /lessons/lesson1/
     title: First Projects
+  - children: []
+    collapsable: false
+    path: /lessons/lesson2/
+    title: More Projects
 title: Hour of Microbit
