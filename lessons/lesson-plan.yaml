@@ -7,15 +7,20 @@ pages:
 resources:
   - flag.png
   - word-logo.png
+  - hardware.png
 
 sidebar:
   - path: /intro
     title: Introduction
 lessons:
   get_started:
-    assignments:
-     - get_started/setup.md
+    title: Getting Started
+
   lesson1:
+    title: First Projects
     assignments:
     - lesson1/first_projects.md
+
+  lesson2:
+    title: More Projects
 
