@@ -21,7 +21,7 @@ themeConfig:
   editLinkText: ''
   editLinks: false
   lastUpdated: false
-  logo: /assets/Flag.png
+  logo: /assets/flag.png
   nav:
   - link: /about/
     text: About
