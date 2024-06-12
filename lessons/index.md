@@ -10,7 +10,7 @@ features:
 - details: Micro:bits can communicate with each other, so you can write programs with
     your friends.
   title: Program with Friends
-footer: Made by The LEAGUE with ❤️
+footer: Made with ❤️ by The LEAGUE and funded 💵 by the Itzkowitch Foundation. 
 heroImage: /assets/word-logo.png
 home: true
 tagline: Introduction Micro:bit

@@ -37,10 +37,24 @@ themeConfig:
   - children:
     - path: /lessons/lesson1/first_projects/
       title: First Projects
+    - path: /lessons/lesson1/moreprojects/
+      title: More Projects
     collapsable: false
     title: First Projects
-  - children: []
+  - children:
+    - path: /lessons/cutebot/setup/
+      title: Setup your Cutebot
+    - path: /lessons/cutebot/square/
+      title: Make A Square
+    - path: /lessons/cutebot/sonar/
+      title: Open Your Eyes BatBot
     collapsable: false
-    path: /lessons/lesson2/
-    title: More Projects
+    path: /lessons/cutebot/
+    title: Cutebot
+  - children:
+    - path: /lessons/arcade/setup/
+      title: Setup Your Arcade
+    collapsable: false
+    path: /lessons/arcade/
+    title: Arcade Games
 title: Hour of Microbit

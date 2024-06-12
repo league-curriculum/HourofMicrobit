@@ -22,7 +22,18 @@ lessons:
     title: First Projects
     assignments:
     - lesson1/first_projects.md
+    - lesson1/moreprojects.md
 
-  lesson2:
-    title: More Projects
+  cutebot:
+    title: Cutebot
+    assignments:
+      - cutebot/setup.md
+      - cutebot/square.md
+      - cutebot/sonar.md
 
+
+  arcade:
+    title: Arcade Games
+    assignments:
+      - arcade/setup.md
+    

@@ -10,5 +10,7 @@ export default ({
   router, // the router instance for the app
   siteData // site metadata
 }) => {
-  // ...apply enhancements for the site.
+  Vue.component('ExtensionsButton', ExtensionsButton)
+  Vue.component('NewProjectButton', NewProjectButton)
+  Vue.component('MicrobitLogo', MicrobitLogo)
 }

@@ -16,7 +16,7 @@
   * If statement to display image. 
 
 
-[RPi FOundation Projects](https://projects.raspberrypi.org/en/projects?hardware%5B%5D=microbit)
+[RPi Foundation Projects](https://projects.raspberrypi.org/en/projects?hardware%5B%5D=microbit)
 
 
 ## Lessons
