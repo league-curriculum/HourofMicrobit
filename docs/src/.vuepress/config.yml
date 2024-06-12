@@ -52,8 +52,20 @@ themeConfig:
     path: /lessons/cutebot/
     title: Cutebot
   - children:
+    - path: /lessons/arcade/bunnyhop/
+      title: Play Bunny Hop
     - path: /lessons/arcade/setup/
       title: Setup Your Arcade
+    - path: /lessons/arcade/tutorials/
+      title: Try The Tutorials
+    - path: /lessons/arcade/eatfruit/
+      title: Eat the Fruit
+    - path: /lessons/arcade/modify_flappy/
+      title: Easier Flapping
+    - path: /lessons/arcade/asteroids/
+      title: Asteroids
+    - path: /lessons/arcade/makeyourown/
+      title: Make Your Own Game
     collapsable: false
     path: /lessons/arcade/
     title: Arcade Games

@@ -35,5 +35,12 @@ lessons:
   arcade:
     title: Arcade Games
     assignments:
+      - arcade/bunnyhop.md
       - arcade/setup.md
+      - arcade/tutorials.md
+      - arcade/eatfruit.md
+      - arcade/modify_flappy.md
+      - arcade/asteroids.md
+      - arcade/makeyourown.md
+
     
