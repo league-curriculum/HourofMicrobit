@@ -30,6 +30,7 @@ lessons:
       - cutebot/setup.md
       - cutebot/square.md
       - cutebot/sonar.md
+      - cutebot/moreprojects.md
 
 
   arcade:
@@ -42,5 +43,6 @@ lessons:
       - arcade/modify_flappy.md
       - arcade/asteroids.md
       - arcade/makeyourown.md
+      -
 
     
