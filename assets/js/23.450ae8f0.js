@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{280:function(n,t,s){},312:function(n,t,s){"use strict";s(280)},350:function(n,t,s){"use strict";s.r(t);s(312);var i=s(14),c=Object(i.a)({},(function(){return(0,this._self._c)("span",{staticClass:"extensions-button"},[this._v("⊕ Extensions")])}),[],!1,null,"71b1c714",null);t.default=c.exports}}]);
