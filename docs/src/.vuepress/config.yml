@@ -48,6 +48,8 @@ themeConfig:
       title: Make A Square
     - path: /lessons/cutebot/sonar/
       title: Open Your Eyes BatBot
+    - path: /lessons/cutebot/moreprojects/
+      title: More Projects
     collapsable: false
     path: /lessons/cutebot/
     title: Cutebot

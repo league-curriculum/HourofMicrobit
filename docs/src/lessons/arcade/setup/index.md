@@ -21,9 +21,18 @@ that file into the USB drive created by plugging in the Micro:bit
 To load Bunny Hop on your console you should first select the hardware you
 are using in the editor:
 
-* Plug in the console to your computer. You should see a new drive available called "MICROBIT"
+* Plug in the console to your computer. You should see a new drive available called "MICROBIT" or "ARCADE-F4"
 * In the bottom-left of the Makecode Arcade editor, click on the '...' icon to select the hardware. 
 * In the hardware, select the picture of the console you have. 
+
+::: warning
+
+If you don't see the Micro:bit drive (  "MICROBIT" or"ARCADE-F4" ) you might
+have to reset the console. Look for a small button or switch. On the Meowbit
+the button is on the right side under the orange rubber case and on the blue
+Retro it is the small button in front. 
+
+:::
 
 You should see either a game screen, or a blue and purple loading screen. You
 might have to turn on a switch on the console if you don't see the screen.

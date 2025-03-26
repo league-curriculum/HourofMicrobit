@@ -1,7 +1,8 @@
 # Arcade
 
-You can program video games on your Microbit, using specialized hardware that looks like a portable game console. We will be using three different consoles. 
-
+You can program video games on your Microbit, using specialized hardware that
+looks like a portable game console. We use three different consoles, but 
+the one we like best is the Meobit, so we have the most of them. 
 
 ## Elecfreeks Retro Programming Arcade
 
@@ -28,4 +29,11 @@ regular Microbit.
 
 ## Programming the Arcade
 
-To Program these devices, you will need a different version of Makecode, [Makecode Arcade](https://arcade.makecode.com). 
+To Program these devices, you will need a different version of Makecode,
+[Makecode Arcade](https://arcade.makecode.com). 
+
+## Example Games
+
+Here is a [large collection of Makecode games](https://github.com/makecode-extensions/arcade-games/tree/master)
+that you can download and install. However, you will probably need some help form an instructor
+to get them working. 
