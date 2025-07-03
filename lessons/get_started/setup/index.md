@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Getting Started
+
 ---
+
 
 # Getting Started
 
@@ -48,4 +49,4 @@ Congratulations! You have created your first Micro:bit program
 
 # First Step
 
-Let's see if you can figure out how to change your flashing heart into a flashing smile and frown. 
+Let's see if you can figure out how to change your flashing heart into a flashing smile and frown.

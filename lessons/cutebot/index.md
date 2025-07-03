@@ -1,3 +1,8 @@
+---
+layout: page
+title: Cutebot
+---
+
 # Cutebot
 
 Here is your Cutebot

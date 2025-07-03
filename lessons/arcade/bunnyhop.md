@@ -1,3 +1,8 @@
+---
+layout: page
+title: Play Bunny Hop
+---
+
 # Play Bunny Hop
 
  Let's start by playing Bunny Hop to see what a typical Micro:bit Arcade game

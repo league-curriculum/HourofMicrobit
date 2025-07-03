@@ -1,7 +1,8 @@
 ---
-layout: page
 title: First Projects
+
 ---
+
 
 # First Projects
 
@@ -67,4 +68,3 @@ to figure out how it will work. Then build it and try it out.
 
 
 * [Step Counter](https://microbit.org/projects/make-it-code-it/step-counter/)
-

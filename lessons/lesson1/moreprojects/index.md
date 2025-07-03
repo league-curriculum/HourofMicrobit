@@ -1,7 +1,8 @@
 ---
-layout: page
 title: More Projects
+
 ---
+
 
 # More Projects
 
