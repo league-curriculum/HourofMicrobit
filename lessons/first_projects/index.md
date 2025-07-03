@@ -9,7 +9,7 @@ Let's look at the [MakeCode Editor](https://makecode.microbit.org) to see how it
 
 The first thing to notice is that the screen has three sections. 
 
-<img src="./mb_editor.png" width="600px" >
+<img src="./images/mb_editor.png" width="600px" >
 
 <div style="clear: both;"></div>
 
@@ -41,12 +41,12 @@ Lets try to make a simple program that is like the flashing heart, but
 flashes happy and sad. 
 
 First, create a new project: Click on <img style="vertical-align:middle"
-src="./microbit.png" height="25px" > at the top of the
+src="./images/microbit.png" height="25px" > at the top of the
 screen, then the  purple "+ New Project" box. 
 
 After you have a new editor window. Look at the colors in the program below to find the right blocks, then drag them to the program area. Drag them to hook them up. 
 
-<img src="./happy_sad.png" width="200px" >
+<img src="./images/happy_sad.png" width="200px" >
 
 Once your program looks like the image above, look in the Emulator pane to see if there are happy and sad faces. If there are, click the purple "Download" button to download your program. 
 
@@ -55,7 +55,7 @@ Once your program looks like the image above, look in the Emulator pane to see i
 
 Try this dice program next. 
 
-<img src="./dice.png" width="400px" >
+<img src="./images/dice.png" width="400px" >
 
 
 ## Timer
@@ -63,8 +63,7 @@ Try this dice program next.
 This program works a bit like a stop watch. Read the program first and try
 to figure out how it will work. Then build it and try it out. 
 
-<img src="./timer.png" width="600px" >
-
+<img src="./images/timer.png" width="600px" >
 
 * [Step Counter](https://microbit.org/projects/make-it-code-it/step-counter/)
 

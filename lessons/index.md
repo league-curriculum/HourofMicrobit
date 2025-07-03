@@ -11,8 +11,8 @@ Welcome to our comprehensive Micro:bit curriculum! These lessons will take you f
 - [Getting Started](/lessons/get_started/) - Set up your Micro:bit and development environment
 
 ## Basic Programming
-- [First Projects](/lessons/lesson1/first_projects/) - Your very first Micro:bit programs
-- [More Projects](/lessons/lesson1/moreprojects/) - Build on your skills with additional projects
+- [First Projects](/lessons/first_projects/) - Your very first Micro:bit programs
+- [More Projects](/lessons/more_projects/) - Build on your skills with additional projects
 
 ## Robotics with Cutebot
 - [Setup your Cutebot](/lessons/cutebot/setup/) - Get your robot ready for programming
