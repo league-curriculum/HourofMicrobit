@@ -1,4 +1,8 @@
 
+---
+layout: page
+title: Setup your Cutebot
+---
 
 # Setup your Cutebot
 

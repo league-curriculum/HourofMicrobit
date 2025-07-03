@@ -1,3 +1,8 @@
+---
+layout: page
+title: More Cutebot Projects
+---
+
 # More Projects
 
 Here are some more projects for you to try:

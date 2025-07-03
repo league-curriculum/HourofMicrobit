@@ -1,3 +1,8 @@
+---
+layout: page
+title: Make A Square
+---
+
 # Make A Square
 
 

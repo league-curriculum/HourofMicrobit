@@ -8,7 +8,7 @@ title: Lessons
 Welcome to our comprehensive Micro:bit curriculum! These lessons will take you from complete beginner to creating your own programs and games.
 
 ## Getting Started
-- [Getting Started](/lessons/get_started/setup/) - Set up your Micro:bit and development environment
+- [Getting Started](/lessons/get_started/) - Set up your Micro:bit and development environment
 
 ## Basic Programming
 - [First Projects](/lessons/lesson1/first_projects/) - Your very first Micro:bit programs

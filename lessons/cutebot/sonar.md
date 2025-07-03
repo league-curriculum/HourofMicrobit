@@ -1,3 +1,8 @@
+---
+layout: page
+title: Open Your Eyes BatBot
+---
+
 # Open Your Eyes BatBot
 
 Actually, we should call this lesson "Open Your Ears" because we are 
