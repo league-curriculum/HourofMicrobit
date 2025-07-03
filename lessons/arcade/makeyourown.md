@@ -1,3 +1,7 @@
+---
+layout: page
+title: Make Your Own Game
+---
 # Make Your Own Game
 
 Now it is time to make your own. You might want to return to the main

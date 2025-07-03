@@ -1,3 +1,7 @@
+---
+layout: page
+title: Asteroids
+
 # Asteroids
 
 Load the [Asteroids Game](https://makecode.com/_Thr5e9gD38Va), then make modifications to it. 
