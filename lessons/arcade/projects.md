@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Asteroids
+---
 
 # Asteroids
 
@@ -10,3 +11,4 @@ Load the [Asteroids Game](https://makecode.com/_Thr5e9gD38Va), then make modific
 * Change the background from starts to clouds
 * Make the asteroids bounce off the space ship. 
 * Anything else you can think of
+

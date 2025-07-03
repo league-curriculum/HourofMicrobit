@@ -89,3 +89,11 @@ If you don't have the 'connect device' option when you click "Download" your
 browser will download a file to the computer. When it is done downloading,
 drag the file to the "MICROBIT" drive. 
 
+
+# Play Bunny Hop
+
+You can also play Bunny Hop on your computer to see what a typical Micro:bit Arcade game
+ is like. You don't really need the game hardware to play the games.  You can play all of the Microbit games online, without loading them
+ into your console, which makes it easier to program and debug them.  
+
+<div style="position:relative;height:0;padding-bottom:117.6%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://arcade.makecode.com/---run?id=_Th1FDAWymh1J" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
