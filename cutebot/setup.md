@@ -12,7 +12,7 @@ nav_order: 1
 To use the features of the Cutebot -- to make it drive around -- you will need to install an extension into your Micro:bit editor. First, start a new project. If you are in an existing project, click on the  
 <img class="inline-icon" src="./images/microbit.png" style="height: 25px;">  to go back to the main page, then click on the `⊕ new project` button, to start a new project. Let's call the program "Dizzy Bot". Then in your new project, click on the `⊕ Extensions` button.
 
-In the extensions window, use the search bar at the top to search for "Cutebot", then select the Cutebot extension. When you return to the project page, your blocks menu in the middle of the should have a new <img class="inline-icon" src="https://images.jointheleague.org/microbit/cbextension.png" style="height: 25px;"> entry.
+In the extensions window, use the search bar at the top to search for "Cutebot", then select the Cutebot extension. When you return to the project page, your blocks menu in the middle of the page should have a new <img class="inline-icon" src="https://images.jointheleague.org/microbit/cbextension.png" style="height: 25px;"> entry.
 
 Now insert your microbit into the Cutebot. Make sure that the grid of LEDs of the Micro:bit is pointing toward the front.
 

@@ -27,7 +27,7 @@ First, create a new project and load in the Cutebot extension.
 
 Enter and download this program: 
 
-<div class="centered-image"><img src="./sonar_graph.png" width="600px"></div>
+<div class="centered-image"><img src="./images/sonar_graph.png" width="600px"></div>
 
 
 Move your hand in front of the sonar module. What do you see?
@@ -37,18 +37,17 @@ Move your hand in front of the sonar module. What do you see?
 
 Use the sonar to make the Cutebot avoid running into things. 
 
-::: tip
-Remember to turn the Cutebot off before you program it, or after you load the program it may scoot of the table. 
-:::
+{: .tip }
+> Remember to turn the Cutebot off before you program it, or after you load the program it may scoot of the table. 
 
-::: details Hint
 
-Use an if statement to check if the sonar reading is less than 10 or 15 cm. You will need to use two blocks
-from the "Logic" category, one from the "Conditionals" group and one from the "Comparison" group. 
+{: .hint}
 
-To make Cutebot avoid hitting things, you could have it stop, or back up and turn before going forward again. 
+> Use an if statement to check if the sonar reading is less than 10 or 15 cm. You will need to use two blocks
+> from the "Logic" category, one from the "Conditionals" group and one from the "Comparison" group. 
+>
+> To make Cutebot avoid hitting things, you could have it stop, or back up and turn before going forward again. 
 
-:::
 
 
 ## Use your headlamps
@@ -65,19 +64,17 @@ Try adding sounds to things that the Cutebot is doing.
 * Play a song when it is backing up
 * Play a tone depending on how far the wall is away. 
 
-::: details Hint
-
+{: .hint}
 There are many ways to play a tone, but to play a tone that depends on the
-sonar measurement, you might use `map` in the 'Math' category and `ring tone`
+sonar measurement, you might use `map` in the `Math` category and `ring tone`
 from the 'Music' category.
 
-:::
 
 
 ## Be unpredictable
 
 
-Use "Math" `pick random` or `pick random True or False` to make the Cutebot
+Use `Math->pick random` or `pick random True or False` to make the Cutebot
 turn either right or left when it is avoiding a wall. 
 
 

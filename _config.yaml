@@ -38,4 +38,10 @@ gh_edit_branch: "jekyl" # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you wan
 
 
-
+callouts:
+  tip:
+    title: Tip
+    color: green
+  hint:
+    title: Hint
+    color: blue
