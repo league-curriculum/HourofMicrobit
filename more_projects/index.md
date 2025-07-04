@@ -49,3 +49,8 @@ and after you get it working expand the project by:
   receiver code on lots of micro:bits
 * If you're outdoors or in a large space, experiment by changing the
   transmitter power. It can be any number from 0 to 7
+
+
+## Next
+
+Make your Micro:bit move by [programming the Cutebot](/cutebot/)

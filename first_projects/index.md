@@ -1,9 +1,6 @@
 ---
 layout: page
-title: First POpen some of the block groups in the middle. For instance, click on the 
-<img style="vertical-align:middle; height: 25px;" src="/HourofMicrobit/assets/input.png" > button. Notice that all of the blocks are like puzzle pieces.
-The shapes will tell you where you can fit one block to another, and the
-colors will tell you what block group to click on.cts
+title: First Projects
 nav_order: 20
 ---
 
@@ -67,5 +64,12 @@ to figure out how it will work. Then build it and try it out.
 
 <img src="./images/timer.png" style="width: 600px;" >
 
-* [Step Counter](https://microbit.org/projects/make-it-code-it/step-counter/)
+## Step Counter
 
+Turn your Micro:bit into a [step counter](https://microbit.org/projects/make-it-code-it/step-counter/), 
+also known as a pedometer, to determine how far you have walked. 
+
+* [Step Counter Project](https://microbit.org/projects/make-it-code-it/step-counter/)
+
+
+[Continue on to more projects](/more_projects/)
