@@ -1,5 +1,7 @@
-#theme: jekyll-theme-minimal
-remote_theme: "jekyll/minima@2.5-stable"
+# theme: jekyll-theme-minimal
+# remote_theme: "jekyll/minima@2.5-stable"
+
+theme: just-the-docs
 
 # Note, we are using version 2.5, so you shoudl 
 # read these instuctions, not the ones at the HEAD of the
@@ -19,6 +21,7 @@ author:
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-default-layout
 
 header_pages:
   - about.md
