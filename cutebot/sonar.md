@@ -1,6 +1,8 @@
 ---
 layout: page
+parent: Cutebot
 title: Open Your Eyes BatBot
+nav_order: 3
 ---
 
 # Open Your Eyes BatBot

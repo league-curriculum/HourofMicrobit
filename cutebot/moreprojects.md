@@ -1,6 +1,8 @@
 ---
 layout: page
 title: More Cutebot Projects
+parent: Cutebot
+nav_order: 4
 ---
 
 # More Projects

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: More Projects
+nav_order: 30
 ---
 
 # More Projects

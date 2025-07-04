@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Setup your Cutebot
+parent: Cutebot
+title: Setup
+nav_order: 1
 ---
+
+
 
 # Setup your Cutebot
 
@@ -28,3 +32,4 @@ Let's create a really simple program. Remember when we named the new project "Di
 <div class="centered-image"><img src="../images/dizzy.png" width="600px"></div>
 
 Download the program to the Micro:bit. If the Cutebot does not move, be sure that the switch is turned on.
+

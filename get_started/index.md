@@ -1,10 +1,11 @@
 ---
-title: Getting Started?
+title: Getting Started
 layout: page
+nav_order: 10
 ---
 
 
-# Getting Started?
+# Getting Started
 
 To setup your microbit, you will need these things:
 

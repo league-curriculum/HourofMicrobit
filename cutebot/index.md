@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cutebot
+nav_order: 40
 ---
 
 # Cutebot

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Arcade
+nav_order: 50
 ---
 
 # Arcade
