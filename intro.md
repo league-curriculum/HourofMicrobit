@@ -21,5 +21,7 @@ Additionally, microntrollers are small and can run off a small battery, so
 they can be built into many other devices. Even your toaster might have a 
 microcontroller in it. 
 
-In this lesson we are going to explore the basics of the Micro:bit micocontroller
-and learn how to make simple program.
+In the next lessons we are going to explore the basics of the Micro:bit micocontroller
+and learn how to make simple programs.
+
+Let's [Get Started](/get_started/)

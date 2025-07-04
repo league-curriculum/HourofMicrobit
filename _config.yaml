@@ -29,35 +29,7 @@ header_pages:
   - lessons/index.md
 
 
-minima:
 
-  # If you don't define the nav pages here, the
-  # default is to use  all of the pages.
-
-
-  social_links:
-    - title: X
-      icon: x-twitter
-      url: https://x.com/LEAGUEofAmazing
-    - title:
-      icon: github
-      url: https://github.com/jointheleague
-    - title: LinkedIn
-      icon: linkedin
-      url: https://www.linkedin.com/company/4849605/
-    - title: Instagram
-      icon: instagram
-      url: https://www.instagram.com/jointheleague/
-
-  # Minima skin selection. Available skins are:
-  #   Available skins:
-  #     * classic            Default, light color scheme.
-  #     * dark               Dark variant of the classic skin.
-  #     * auto               Adaptive skin based on the default classic and dark skins.
-  #     * solarized-light    Light variant of solarized color scheme.
-  #     * solarized-dark     Dark variant of solarized color scheme.
-  #     * solarized 
-  skin: classic
 
 
 
