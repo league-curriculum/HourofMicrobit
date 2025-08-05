@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.0"
+gem "jekyll", "~> 4.4.1"
 gem "minima", "~> 2.5"
 gem "just-the-docs"
 gem "jekyll-default-layout"
