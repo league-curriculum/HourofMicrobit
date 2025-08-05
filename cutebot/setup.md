@@ -29,7 +29,8 @@ When you are programming the Cutebot, or anytime you don't want it to move, you 
 
 Let's create a really simple program. Remember when we named the new project "Dizzy Bot?" Well, now you get to find out why. Using the "Basic" and "Cutebot" block groups create this program:
 
-<div class="centered-image"><img src="../images/dizzy.png" style="width: 600px;"></div>
+<div class="centered-image"><img src="images/dizzy.png" style="width: 600px;"></div>
 
 Download the program to the Micro:bit. If the Cutebot does not move, be sure that the switch is turned on.
 
+Next: [Make A Square](square)

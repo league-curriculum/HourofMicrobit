@@ -7,6 +7,10 @@ nav_order: 4
 
 # Remote Control
 
+Here are two programs that you can load onto two Micro:bits, one in a Cutebot, 
+and one in a Joystick. Read the programs to figure out how they work. 
+
+
 * [Joystick (Transmitter)](https://github.com/League-Microbit/joytransmitter)
 * [Cutebot (Eeciever)](https://github.com/League-Microbit/cutebot-joyreceiver)
 
@@ -26,3 +30,6 @@ Here is a markdown table mapping each button or gesture to the numerical code th
 | Shake gesture        | "b"             | 7                 | radio.sendValue("b", 7)                |
 | Joystick X axis      | "x"             | X value (0–1023)  | radio.sendValue("x", x)                |
 | Joystick Y axis      | "y"             | Y value (0–1023)  | radio.sendValue("y", y)                |
+
+
+Next: [More Projects](moreprojects)

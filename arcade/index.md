@@ -10,13 +10,13 @@ You can program video games on your Microbit, using specialized hardware that
 looks like a portable game console. We use three different consoles, but 
 the one we like best is the Meobit, so we have the most of them. 
 
-## Elecfreeks Retro Programming Arcade
+## Elecfreaks Retro Programming Arcade
 
 <div class="centered-image"><img src="https://erelement.com/wp-content/uploads/2023/12/microbit-retro-arcade-3-700x669.png" style="width: 300px;"></div>
 
 This device is a controller and screen for a Micro:bit; you will need to have a Micro:bit to plug into it. 
 
-## Electfreeks Retro Arcade for Education
+## Electfreaks Retro Arcade for Education
 
 <div class="centered-image"><img src="https://www.elecfreaks.com/learn-en/_images/retro-case-01-01.png" style="width: 200px;"></div>
 

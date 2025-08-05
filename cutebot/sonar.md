@@ -85,7 +85,7 @@ Think of other crazy things you can make your Cutebot do.
 
 
 
-
+Next: [Remote Control](remote)
 
 
 
