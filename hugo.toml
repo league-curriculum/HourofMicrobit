@@ -1,7 +1,16 @@
-baseURL = "https://league-curriculum.github.io/Microbit-Tech-Arcade/"
+baseURL = "/Microbit-Tech-Arcade.git/"
 title = "Micro:Bit Tech Arcade"
 theme = "curriculum-hugo-theme"
 enableEmoji = true
+
+# Mount course.yml as Hugo data so templates can read it
+# directly via .Site.Data.course — no need to duplicate fields.
+[[module.mounts]]
+  source = "content"
+  target = "content"
+[[module.mounts]]
+  source = "course.yml"
+  target = "data/course.yml"
 
 [markup]
   [markup.goldmark.renderer]
