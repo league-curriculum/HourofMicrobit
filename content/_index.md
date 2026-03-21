@@ -14,7 +14,3 @@ The Micro:Bit is a tiny computer which you can make robots with.
 
 ### Program with Friends
 Micro:Bits can communicate with each other, so you can write programs with your friends.
-
----
-
-*Made with love by The LEAGUE and funded by the Itzkowitch Foundation.*
