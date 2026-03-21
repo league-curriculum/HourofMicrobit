@@ -1,0 +1,21 @@
+baseURL = "/"
+title = "Micro:Bit Tech Arcade"
+theme = "curriculum-hugo-theme"
+enableEmoji = true
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+
+[params]
+  copyright = "The League of Amazing Programmers"
+  license = "CC BY-NC 4.0"
+  curriculum_version = "0.20260320.1"
+  curik_version = "0.20260314.11"

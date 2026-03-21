@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Micro:Bit Tech Arcade</title>
+    <link>//localhost:1314/</link>
+    <description>Recent content on Micro:Bit Tech Arcade</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1314/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arcade Setup</title>
+      <link>//localhost:1314/04-arcade/01-arcade-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/04-arcade/01-arcade-setup/</guid>
+      <description>&lt;p&gt;You can program video games on your Micro:Bit, using specialized hardware that&#xA;looks like a portable game console. We use three different consoles, but&#xA;the one we like best is the Meowbit, so we have the most of them.&lt;/p&gt;&#xA;&lt;h2 id=&#34;elecfreaks-retro-programming-arcade&#34;&gt;Elecfreaks Retro Programming Arcade&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://erelement.com/wp-content/uploads/2023/12/microbit-retro-arcade-3-700x669.png&#34; alt=&#34;Elecfreaks Retro Programming Arcade&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This device is a controller and screen for a Micro:Bit; you will need to have a Micro:Bit to plug into it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;elecfreaks-retro-arcade-for-education&#34;&gt;Elecfreaks Retro Arcade for Education&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.elecfreaks.com/learn-en/_images/retro-case-01-01.png&#34; alt=&#34;Elecfreaks Retro Arcade for Education&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cutebot Setup</title>
+      <link>//localhost:1314/05-cutebot/01-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/05-cutebot/01-setup/</guid>
+      <description>&lt;p&gt;Here is your Cutebot:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.elecfreaks.com/learn-en/_images/cutebot_01_01.jpg&#34; alt=&#34;Cutebot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This tiny robot has a lot of interesting features that &lt;a href=&#34;https://www.elecfreaks.com/learn-en/microbitKit/smart_cutebot/cutebot_car.html&#34;&gt;you can learn about online&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Your Cutebot can drive around, flash its lights, and avoid obstacles. Let&amp;rsquo;s learn how to program it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;setup-your-cutebot&#34;&gt;Setup your Cutebot&lt;/h2&gt;&#xA;&lt;p&gt;To use the features of the Cutebot — to make it drive around — you will need to install an extension into your Micro:Bit editor. First, start a new project. If you are in an existing project, click on the &lt;img src=&#34;//localhost:1314/images/microbit.png&#34; alt=&#34;Micro:Bit logo&#34;&gt; to go back to the main page, then click on the &amp;ldquo;+ New Project&amp;rdquo; button to start a new project. Let&amp;rsquo;s call the program &amp;ldquo;Dizzy Bot&amp;rdquo;. Then in your new project, click on the &amp;ldquo;Extensions&amp;rdquo; button.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emotion Badge</title>
+      <link>//localhost:1314/03-more-projects/01-emotion-badge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/03-more-projects/01-emotion-badge/</guid>
+      <description>&lt;p&gt;Show if you are happy or sad on your Micro:Bit.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://microbit.org/projects/make-it-code-it/emotion-badge/&#34;&gt;Emotion Badge Project&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Happy Sad</title>
+      <link>//localhost:1314/02-first-projects/01-happy-sad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/02-first-projects/01-happy-sad/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s look at the &lt;a href=&#34;https://makecode.microbit.org&#34;&gt;MakeCode Editor&lt;/a&gt; to see how it works.&lt;/p&gt;&#xA;&lt;p&gt;The first thing to notice is that the screen has three sections.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1314/images/mb_editor.png&#34; alt=&#34;MakeCode Editor&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;On the left&lt;/strong&gt; is an &amp;ldquo;Emulator&amp;rdquo;, which shows what your Micro:Bit will do after you download the program to it.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;In the middle&lt;/strong&gt; is the list of blocks. You can click on the block categories to get a list of blocks of that color, then drag the blocks into the program area.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;On the right&lt;/strong&gt; is the program area, where you will build your program out of blocks.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Open some of the block groups in the middle. For instance, click on the&#xA;&lt;img src=&#34;//localhost:1314/images/input.png&#34; alt=&#34;Input&#34;&gt; button. Notice that all of the blocks are like puzzle pieces.&#xA;The shapes will tell you where you can fit one block to another, and the&#xA;colors will tell you what block group to click on.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Intro to Micro:Bit</title>
+      <link>//localhost:1314/01-introduction/01-intro-to-microbit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/01-introduction/01-intro-to-microbit/</guid>
+      <description>&lt;p&gt;The Micro:Bit is a microcontroller, a small computer that has a lot&#xA;of extra parts to make it more useful. The computer CPU in your laptop&#xA;computer is designed to be very powerful and do only a few things well. Everything&#xA;else that a computer might have to do, such as display images on a monitor&#xA;or read keystrokes from the keyboard, is handled by other chips. But a&#xA;microcontroller has many of these peripherals built into it, which makes&#xA;them easier to use.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dice</title>
+      <link>//localhost:1314/02-first-projects/02-dice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/02-first-projects/02-dice/</guid>
+      <description>&lt;p&gt;Try this dice program next.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1314/images/dice.png&#34; alt=&#34;Dice program&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Game Projects</title>
+      <link>//localhost:1314/04-arcade/02-game-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/04-arcade/02-game-projects/</guid>
+      <description>&lt;h2 id=&#34;eat-the-fruit&#34;&gt;Eat the Fruit&lt;/h2&gt;&#xA;&lt;p&gt;Load the &lt;a href=&#34;https://makecode.com/_bP03bACK60ac&#34;&gt;Eat the Fruit&lt;/a&gt; game. We will start with this game and modify it. Play the game a bit, either on your Micro:Bit or in the emulator (the Micro:Bit in the upper left of the Editor). Then, after you get the hang of it, let&amp;rsquo;s make some modifications.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Change the cakes and fruit to sharks and fish&lt;/li&gt;&#xA;&lt;li&gt;Let the player shoot cakes for points.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;asteroids&#34;&gt;Asteroids&lt;/h2&gt;&#xA;&lt;p&gt;Load the &lt;a href=&#34;https://makecode.com/_Thr5e9gD38Va&#34;&gt;Asteroids Game&lt;/a&gt;, then make modifications to it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting Started</title>
+      <link>//localhost:1314/01-introduction/02-getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/01-introduction/02-getting-started/</guid>
+      <description>&lt;p&gt;To setup your Micro:Bit, you will need these things:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;A computer with a USB port and a web browser&lt;/li&gt;&#xA;&lt;li&gt;A Micro:Bit&lt;/li&gt;&#xA;&lt;li&gt;A USB cable&lt;/li&gt;&#xA;&lt;li&gt;(For later) a battery pack&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1314/images/parts.png&#34; alt=&#34;Parts needed&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Next, just plug in the USB cable to your computer:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1314/images/after_connection.png&#34; alt=&#34;After connection&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Then, visit the Micro:Bit MakeCode project website: &lt;a href=&#34;https://makecode.microbit.org&#34;&gt;https://makecode.microbit.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;First, click on the &lt;img src=&#34;//localhost:1314/images/sign_in.png&#34; alt=&#34;Sign In&#34;&gt; button in the upper-right to create an account.&lt;/p&gt;&#xA;&lt;p&gt;To load your first program, click on the Import button: &lt;img src=&#34;//localhost:1314/images/import_button.png&#34; alt=&#34;Import&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Make A Square</title>
+      <link>//localhost:1314/05-cutebot/02-make-a-square/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/05-cutebot/02-make-a-square/</guid>
+      <description>&lt;h2 id=&#34;only-half-a-square&#34;&gt;Only Half a Square&lt;/h2&gt;&#xA;&lt;p&gt;Enter this program to draw a square and run it to see what it does.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1314/images/square.png&#34; alt=&#34;Square program&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hmm &amp;hellip; doesn&amp;rsquo;t look like it makes a square. Maybe only half a square. Can you&#xA;fix the program to make a full square?&lt;/p&gt;&#xA;&lt;h2 id=&#34;for-not-repeat&#34;&gt;For, Not Repeat&lt;/h2&gt;&#xA;&lt;p&gt;Look in the Loops category for a for loop. Replace your repeat loop with a for loop. Then make&#xA;sure your program runs again.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shining Sunbeams</title>
+      <link>//localhost:1314/03-more-projects/02-shining-sunbeams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/03-more-projects/02-shining-sunbeams/</guid>
+      <description>&lt;p&gt;Display an animated Shining Sun on your Micro:Bit.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://microbit.org/projects/make-it-code-it/shining-sunbeams/&#34;&gt;Shining Sunbeams Project&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Make Your Own Game</title>
+      <link>//localhost:1314/04-arcade/03-make-your-own/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/04-arcade/03-make-your-own/</guid>
+      <description>&lt;p&gt;Now it is time to make your own. You might want to return to the main&#xA;&lt;a href=&#34;https://arcade.makecode.com/#&#34;&gt;MakeCode Arcade page&lt;/a&gt; to review some other&#xA;games for ideas, or do a few more tutorials.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open Your Eyes BatBot</title>
+      <link>//localhost:1314/05-cutebot/03-batbot-sonar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/05-cutebot/03-batbot-sonar/</guid>
+      <description>&lt;p&gt;Actually, we should call this lesson &amp;ldquo;Open Your Ears&amp;rdquo; because we are&#xA;going to use the cute &amp;ldquo;eyes&amp;rdquo; on the front of your robot, but these eyes are&#xA;actually ears.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.elecfreaks.com/learn-en/_images/cutebot_01_01.jpg&#34; alt=&#34;Cutebot front&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The two cylinders in the front of the Cutebot that look like eyes are a sonar module. One of the cylinders will emit a high-pitched sound, like a bat, and the other will listen for it. The time it takes for the sound to return&#xA;lets the robot know how far away things are. You can read more of &lt;a href=&#34;https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/&#34;&gt;the details about how this module works&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Send a Smile</title>
+      <link>//localhost:1314/03-more-projects/03-send-a-smile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/03-more-projects/03-send-a-smile/</guid>
+      <description>&lt;p&gt;For this project, you will need a friend, or two Micro:Bits. Start with the&#xA;&lt;a href=&#34;https://microbit.org/projects/make-it-code-it/send-a-smile/&#34;&gt;Send a Smile&lt;/a&gt; project to send&#xA;a smile to another Micro:Bit. Then, expand your project to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Send a frown if another button is pushed&lt;/li&gt;&#xA;&lt;li&gt;Pick a random Micro:Bit (random radio group) to send to if another button is pressed.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Timer</title>
+      <link>//localhost:1314/02-first-projects/03-timer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/02-first-projects/03-timer/</guid>
+      <description>&lt;p&gt;This program works a bit like a stop watch. Read the program first and try&#xA;to figure out how it will work. Then build it and try it out.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1314/images/timer.png&#34; alt=&#34;Timer program&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Remote Control</title>
+      <link>//localhost:1314/05-cutebot/04-remote-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/05-cutebot/04-remote-control/</guid>
+      <description>&lt;p&gt;Here are two programs that you can load onto two Micro:Bits, one in a Cutebot,&#xA;and one in a Joystick. Read the programs to figure out how they work.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/League-Microbit/joytransmitter&#34;&gt;Joystick (Transmitter)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/League-Microbit/cutebot-joyreceiver&#34;&gt;Cutebot (Receiver)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Here is a table mapping each button or gesture to the numerical code that is sent via radio:&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Input&lt;/th&gt;&#xA;          &lt;th&gt;String Code Sent&lt;/th&gt;&#xA;          &lt;th&gt;Integer Code Sent&lt;/th&gt;&#xA;          &lt;th&gt;Notes&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Button A&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;b&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;0&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;b&amp;rdquo;, 0)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Button B&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;b&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;1&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;b&amp;rdquo;, 1)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Joystick Button P12&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;b&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;2&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;b&amp;rdquo;, 2)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Joystick Button P13&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;b&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;3&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;b&amp;rdquo;, 3)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Joystick Button P15&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;b&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;4&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;b&amp;rdquo;, 4)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Joystick Button P14&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;b&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;5&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;b&amp;rdquo;, 5)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Buttons A+B together&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;b&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;6&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;b&amp;rdquo;, 6)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Shake gesture&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;b&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;7&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;b&amp;rdquo;, 7)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Joystick X axis&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;x&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;X value (0-1023)&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;x&amp;rdquo;, x)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Joystick Y axis&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;y&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;Y value (0-1023)&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;y&amp;rdquo;, y)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Step Counter</title>
+      <link>//localhost:1314/02-first-projects/04-step-counter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/02-first-projects/04-step-counter/</guid>
+      <description>&lt;p&gt;Turn your Micro:Bit into a &lt;a href=&#34;https://microbit.org/projects/make-it-code-it/step-counter/&#34;&gt;step counter&lt;/a&gt;,&#xA;also known as a pedometer, to determine how far you have walked.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://microbit.org/projects/make-it-code-it/step-counter/&#34;&gt;Step Counter Project&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Teleporting Duck</title>
+      <link>//localhost:1314/03-more-projects/04-teleporting-duck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/03-more-projects/04-teleporting-duck/</guid>
+      <description>&lt;p&gt;For this project, you will need three people. Start with &lt;a href=&#34;https://microbit.org/projects/make-it-code-it/group-teleporting-duck/&#34;&gt;Group teleporting duck&lt;/a&gt;. When you get it working,&#xA;modify your project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Change the program to send other things instead of ducks.&lt;/li&gt;&#xA;&lt;li&gt;At the moment, if it picks a random number that&amp;rsquo;s the same as your own ID&#xA;number, you have to shake again. Modify the program so this never happens.&#xA;There may be more than one way to do this.&lt;/li&gt;&#xA;&lt;li&gt;Player 1 always has the duck at the start of the game. Could you improve the&#xA;program so the first player with the duck is chosen at random? How would&#xA;you communicate this to every player&amp;rsquo;s Micro:Bit?&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>More Cutebot Projects</title>
+      <link>//localhost:1314/05-cutebot/05-more-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/05-cutebot/05-more-projects/</guid>
+      <description>&lt;p&gt;Here are some more projects for you to try:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Line follower.&lt;/strong&gt; Get the large paper sheet with the wavy line and &lt;a href=&#34;https://wiki.elecfreaks.com/en/microbit/microbit-smart-car/microbit-smart-cutebot/cutebot_case08&#34;&gt;program the Cutebot to follow the line.&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Remote control.&lt;/strong&gt; Control your Cutebot &lt;a href=&#34;https://wiki.elecfreaks.com/en/microbit/microbit-smart-car/microbit-smart-cutebot/cutebot_case11&#34;&gt;from another Micro:Bit&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Edge detection.&lt;/strong&gt; Teach your Cutebot &lt;a href=&#34;https://wiki.elecfreaks.com/en/microbit/microbit-smart-car/microbit-smart-cutebot/cutebot_case07&#34;&gt;not to fall off a table&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Proximity Beacon</title>
+      <link>//localhost:1314/03-more-projects/05-proximity-beacon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/03-more-projects/05-proximity-beacon/</guid>
+      <description>&lt;p&gt;For this project, you will need 2 Micro:Bits. Start with the &lt;a href=&#34;https://microbit.org/projects/make-it-code-it/proximity-beacon/&#34;&gt;Proximity beacon&lt;/a&gt; project,&#xA;and after you get it working expand the project by:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Make the bar graph display on both Micro:Bits&lt;/li&gt;&#xA;&lt;li&gt;Make the display show a face that gets happier as the Micro:Bits get closer,&#xA;and sadder as it gets farther away.&lt;/li&gt;&#xA;&lt;li&gt;Use these programs to make a treasure hunt game: hide the beacon and put the&#xA;receiver code on lots of Micro:Bits&lt;/li&gt;&#xA;&lt;li&gt;If you&amp;rsquo;re outdoors or in a large space, experiment by changing the&#xA;transmitter power. It can be any number from 0 to 7&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

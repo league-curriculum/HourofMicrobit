@@ -5,6 +5,12 @@
       "args": [
         "mcp"
       ]
-    }
+    },
+    "browsermcp": {
+          "command": "npx",
+          "args": [
+            "@browsermcp/mcp@latest"
+          ]
+        }
   }
 }

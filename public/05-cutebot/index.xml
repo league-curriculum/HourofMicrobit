@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cutebot Robotics on Micro:Bit Tech Arcade</title>
+    <link>//localhost:1314/05-cutebot/</link>
+    <description>Recent content in Cutebot Robotics on Micro:Bit Tech Arcade</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1314/05-cutebot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cutebot Setup</title>
+      <link>//localhost:1314/05-cutebot/01-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/05-cutebot/01-setup/</guid>
+      <description>&lt;p&gt;Here is your Cutebot:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.elecfreaks.com/learn-en/_images/cutebot_01_01.jpg&#34; alt=&#34;Cutebot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This tiny robot has a lot of interesting features that &lt;a href=&#34;https://www.elecfreaks.com/learn-en/microbitKit/smart_cutebot/cutebot_car.html&#34;&gt;you can learn about online&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Your Cutebot can drive around, flash its lights, and avoid obstacles. Let&amp;rsquo;s learn how to program it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;setup-your-cutebot&#34;&gt;Setup your Cutebot&lt;/h2&gt;&#xA;&lt;p&gt;To use the features of the Cutebot — to make it drive around — you will need to install an extension into your Micro:Bit editor. First, start a new project. If you are in an existing project, click on the &lt;img src=&#34;//localhost:1314/images/microbit.png&#34; alt=&#34;Micro:Bit logo&#34;&gt; to go back to the main page, then click on the &amp;ldquo;+ New Project&amp;rdquo; button to start a new project. Let&amp;rsquo;s call the program &amp;ldquo;Dizzy Bot&amp;rdquo;. Then in your new project, click on the &amp;ldquo;Extensions&amp;rdquo; button.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Make A Square</title>
+      <link>//localhost:1314/05-cutebot/02-make-a-square/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/05-cutebot/02-make-a-square/</guid>
+      <description>&lt;h2 id=&#34;only-half-a-square&#34;&gt;Only Half a Square&lt;/h2&gt;&#xA;&lt;p&gt;Enter this program to draw a square and run it to see what it does.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1314/images/square.png&#34; alt=&#34;Square program&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hmm &amp;hellip; doesn&amp;rsquo;t look like it makes a square. Maybe only half a square. Can you&#xA;fix the program to make a full square?&lt;/p&gt;&#xA;&lt;h2 id=&#34;for-not-repeat&#34;&gt;For, Not Repeat&lt;/h2&gt;&#xA;&lt;p&gt;Look in the Loops category for a for loop. Replace your repeat loop with a for loop. Then make&#xA;sure your program runs again.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open Your Eyes BatBot</title>
+      <link>//localhost:1314/05-cutebot/03-batbot-sonar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/05-cutebot/03-batbot-sonar/</guid>
+      <description>&lt;p&gt;Actually, we should call this lesson &amp;ldquo;Open Your Ears&amp;rdquo; because we are&#xA;going to use the cute &amp;ldquo;eyes&amp;rdquo; on the front of your robot, but these eyes are&#xA;actually ears.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.elecfreaks.com/learn-en/_images/cutebot_01_01.jpg&#34; alt=&#34;Cutebot front&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The two cylinders in the front of the Cutebot that look like eyes are a sonar module. One of the cylinders will emit a high-pitched sound, like a bat, and the other will listen for it. The time it takes for the sound to return&#xA;lets the robot know how far away things are. You can read more of &lt;a href=&#34;https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/&#34;&gt;the details about how this module works&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Remote Control</title>
+      <link>//localhost:1314/05-cutebot/04-remote-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/05-cutebot/04-remote-control/</guid>
+      <description>&lt;p&gt;Here are two programs that you can load onto two Micro:Bits, one in a Cutebot,&#xA;and one in a Joystick. Read the programs to figure out how they work.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/League-Microbit/joytransmitter&#34;&gt;Joystick (Transmitter)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/League-Microbit/cutebot-joyreceiver&#34;&gt;Cutebot (Receiver)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Here is a table mapping each button or gesture to the numerical code that is sent via radio:&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Input&lt;/th&gt;&#xA;          &lt;th&gt;String Code Sent&lt;/th&gt;&#xA;          &lt;th&gt;Integer Code Sent&lt;/th&gt;&#xA;          &lt;th&gt;Notes&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Button A&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;b&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;0&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;b&amp;rdquo;, 0)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Button B&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;b&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;1&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;b&amp;rdquo;, 1)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Joystick Button P12&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;b&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;2&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;b&amp;rdquo;, 2)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Joystick Button P13&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;b&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;3&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;b&amp;rdquo;, 3)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Joystick Button P15&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;b&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;4&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;b&amp;rdquo;, 4)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Joystick Button P14&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;b&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;5&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;b&amp;rdquo;, 5)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Buttons A+B together&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;b&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;6&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;b&amp;rdquo;, 6)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Shake gesture&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;b&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;7&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;b&amp;rdquo;, 7)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Joystick X axis&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;x&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;X value (0-1023)&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;x&amp;rdquo;, x)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Joystick Y axis&lt;/td&gt;&#xA;          &lt;td&gt;&amp;ldquo;y&amp;rdquo;&lt;/td&gt;&#xA;          &lt;td&gt;Y value (0-1023)&lt;/td&gt;&#xA;          &lt;td&gt;radio.sendValue(&amp;ldquo;y&amp;rdquo;, y)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>More Cutebot Projects</title>
+      <link>//localhost:1314/05-cutebot/05-more-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/05-cutebot/05-more-projects/</guid>
+      <description>&lt;p&gt;Here are some more projects for you to try:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Line follower.&lt;/strong&gt; Get the large paper sheet with the wavy line and &lt;a href=&#34;https://wiki.elecfreaks.com/en/microbit/microbit-smart-car/microbit-smart-cutebot/cutebot_case08&#34;&gt;program the Cutebot to follow the line.&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Remote control.&lt;/strong&gt; Control your Cutebot &lt;a href=&#34;https://wiki.elecfreaks.com/en/microbit/microbit-smart-car/microbit-smart-cutebot/cutebot_case11&#34;&gt;from another Micro:Bit&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Edge detection.&lt;/strong&gt; Teach your Cutebot &lt;a href=&#34;https://wiki.elecfreaks.com/en/microbit/microbit-smart-car/microbit-smart-cutebot/cutebot_case07&#34;&gt;not to fall off a table&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

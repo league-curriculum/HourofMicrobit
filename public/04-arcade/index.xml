@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arcade Games on Micro:Bit Tech Arcade</title>
+    <link>//localhost:1314/04-arcade/</link>
+    <description>Recent content in Arcade Games on Micro:Bit Tech Arcade</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1314/04-arcade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arcade Setup</title>
+      <link>//localhost:1314/04-arcade/01-arcade-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/04-arcade/01-arcade-setup/</guid>
+      <description>&lt;p&gt;You can program video games on your Micro:Bit, using specialized hardware that&#xA;looks like a portable game console. We use three different consoles, but&#xA;the one we like best is the Meowbit, so we have the most of them.&lt;/p&gt;&#xA;&lt;h2 id=&#34;elecfreaks-retro-programming-arcade&#34;&gt;Elecfreaks Retro Programming Arcade&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://erelement.com/wp-content/uploads/2023/12/microbit-retro-arcade-3-700x669.png&#34; alt=&#34;Elecfreaks Retro Programming Arcade&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This device is a controller and screen for a Micro:Bit; you will need to have a Micro:Bit to plug into it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;elecfreaks-retro-arcade-for-education&#34;&gt;Elecfreaks Retro Arcade for Education&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.elecfreaks.com/learn-en/_images/retro-case-01-01.png&#34; alt=&#34;Elecfreaks Retro Arcade for Education&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Game Projects</title>
+      <link>//localhost:1314/04-arcade/02-game-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/04-arcade/02-game-projects/</guid>
+      <description>&lt;h2 id=&#34;eat-the-fruit&#34;&gt;Eat the Fruit&lt;/h2&gt;&#xA;&lt;p&gt;Load the &lt;a href=&#34;https://makecode.com/_bP03bACK60ac&#34;&gt;Eat the Fruit&lt;/a&gt; game. We will start with this game and modify it. Play the game a bit, either on your Micro:Bit or in the emulator (the Micro:Bit in the upper left of the Editor). Then, after you get the hang of it, let&amp;rsquo;s make some modifications.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Change the cakes and fruit to sharks and fish&lt;/li&gt;&#xA;&lt;li&gt;Let the player shoot cakes for points.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;asteroids&#34;&gt;Asteroids&lt;/h2&gt;&#xA;&lt;p&gt;Load the &lt;a href=&#34;https://makecode.com/_Thr5e9gD38Va&#34;&gt;Asteroids Game&lt;/a&gt;, then make modifications to it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Make Your Own Game</title>
+      <link>//localhost:1314/04-arcade/03-make-your-own/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/04-arcade/03-make-your-own/</guid>
+      <description>&lt;p&gt;Now it is time to make your own. You might want to return to the main&#xA;&lt;a href=&#34;https://arcade.makecode.com/#&#34;&gt;MakeCode Arcade page&lt;/a&gt; to review some other&#xA;games for ideas, or do a few more tutorials.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

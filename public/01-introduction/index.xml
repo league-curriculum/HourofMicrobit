@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Micro:Bit Tech Arcade</title>
+    <link>//localhost:1314/01-introduction/</link>
+    <description>Recent content in Introduction on Micro:Bit Tech Arcade</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1314/01-introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro to Micro:Bit</title>
+      <link>//localhost:1314/01-introduction/01-intro-to-microbit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/01-introduction/01-intro-to-microbit/</guid>
+      <description>&lt;p&gt;The Micro:Bit is a microcontroller, a small computer that has a lot&#xA;of extra parts to make it more useful. The computer CPU in your laptop&#xA;computer is designed to be very powerful and do only a few things well. Everything&#xA;else that a computer might have to do, such as display images on a monitor&#xA;or read keystrokes from the keyboard, is handled by other chips. But a&#xA;microcontroller has many of these peripherals built into it, which makes&#xA;them easier to use.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting Started</title>
+      <link>//localhost:1314/01-introduction/02-getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/01-introduction/02-getting-started/</guid>
+      <description>&lt;p&gt;To setup your Micro:Bit, you will need these things:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;A computer with a USB port and a web browser&lt;/li&gt;&#xA;&lt;li&gt;A Micro:Bit&lt;/li&gt;&#xA;&lt;li&gt;A USB cable&lt;/li&gt;&#xA;&lt;li&gt;(For later) a battery pack&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1314/images/parts.png&#34; alt=&#34;Parts needed&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Next, just plug in the USB cable to your computer:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1314/images/after_connection.png&#34; alt=&#34;After connection&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Then, visit the Micro:Bit MakeCode project website: &lt;a href=&#34;https://makecode.microbit.org&#34;&gt;https://makecode.microbit.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;First, click on the &lt;img src=&#34;//localhost:1314/images/sign_in.png&#34; alt=&#34;Sign In&#34;&gt; button in the upper-right to create an account.&lt;/p&gt;&#xA;&lt;p&gt;To load your first program, click on the Import button: &lt;img src=&#34;//localhost:1314/images/import_button.png&#34; alt=&#34;Import&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

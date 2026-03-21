@@ -1,14 +1,14 @@
 title: micro:bit Tech Arcade
-slug: TBD
+slug: microbit-tech-arcade
 uid: 3adcf7ea-924b-4a38-9340-55df6653409d
 type: course
-tier: TBD
-grades: TBD
-category: TBD
-topics: []
+tier: 1
+grades: 6-8
+category: physical-computing
+topics: ["micro:bit", "MakeCode", "block programming", "robotics", "game development", "radio communication"]
 prerequisites: []
 lessons: 0
 estimated_weeks: 0
-curriculum_url: TBD
-repo_url: TBD
-description: TBD
+curriculum_url: https://league-curriculum.github.io/HourofMicrobit/
+repo_url: https://github.com/league-curriculum/HourofMicrobit
+description: A hands-on, project-based introduction to the BBC micro:bit covering programming fundamentals, arcade game development, and robotics.

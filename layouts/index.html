@@ -1,0 +1,13 @@
+{{ define "main" }}
+<h1>{{ .Site.Title }}</h1>
+{{ .Content }}
+{{ range sort (where .Site.Pages "Kind" "section") "Weight" }}
+<h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+{{ .Summary }}
+<ul>
+  {{ range .Pages.ByWeight }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
+{{ end }}
+{{ end }}
