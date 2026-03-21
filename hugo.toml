@@ -1,4 +1,4 @@
-baseURL = "/Microbit-Tech-Arcade.git/"
+baseURL = "/Microbit-Tech-Arcade/"
 title = "Micro:Bit Tech Arcade"
 theme = "curriculum-hugo-theme"
 enableEmoji = true
@@ -29,4 +29,3 @@ enableEmoji = true
   curriculum_version = "0.20260320.1"
   curik_version = "0.20260314.11"
   instructorGuide = true
-  github_repo = "https://github.com/league-curriculum/Microbit-Tech-Arcade"
