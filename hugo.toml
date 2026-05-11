@@ -2,6 +2,7 @@ baseURL = "/Microbit-Tech-Arcade/"
 title = "Micro:Bit Tech Arcade"
 theme = "curriculum-hugo-theme"
 enableEmoji = true
+canonifyURLs = true
 
 # Mount course.yml as Hugo data so templates can read it
 # directly via .Site.Data.course — no need to duplicate fields.
