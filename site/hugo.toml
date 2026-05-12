@@ -10,7 +10,7 @@ canonifyURLs = true
   source = "content"
   target = "content"
 [[module.mounts]]
-  source = "course.yml"
+  source = "../course.yml"
   target = "data/course.yml"
 
 [markup]

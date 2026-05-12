@@ -1,4 +1,4 @@
 default: dev
 
 dev:
-    hugo server -D
+    hugo server -D --source site
